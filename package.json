@@ -15,6 +15,6 @@
     "browserify": "^13.0.0"
   },
   "dependencies": {
-    "millions": "file:../millionsjs"
+    "millions": "^0.2"
   }
 }

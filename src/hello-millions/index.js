@@ -1,4 +1,4 @@
-var Millions = require('millions/lib/millions');
+var Millions = require('millions');
 
 // set up a scene with a single diagonal line, whose thickness and color vary at
 // the endpoints
